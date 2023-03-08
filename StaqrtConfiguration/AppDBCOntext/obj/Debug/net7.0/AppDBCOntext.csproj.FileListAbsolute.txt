@@ -1,0 +1,15 @@
+C:\Users\Ahmed\Desktop\WebApi\StaqrtConfiguration\AppDBCOntext\bin\Debug\net7.0\AppDBCOntext.deps.json
+C:\Users\Ahmed\Desktop\WebApi\StaqrtConfiguration\AppDBCOntext\bin\Debug\net7.0\AppDBCOntext.dll
+C:\Users\Ahmed\Desktop\WebApi\StaqrtConfiguration\AppDBCOntext\bin\Debug\net7.0\AppDBCOntext.pdb
+C:\Users\Ahmed\Desktop\WebApi\StaqrtConfiguration\AppDBCOntext\bin\Debug\net7.0\Domain.dll
+C:\Users\Ahmed\Desktop\WebApi\StaqrtConfiguration\AppDBCOntext\bin\Debug\net7.0\Domain.pdb
+C:\Users\Ahmed\Desktop\WebApi\StaqrtConfiguration\AppDBCOntext\obj\Debug\net7.0\AppDBCOntext.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\WebApi\StaqrtConfiguration\AppDBCOntext\obj\Debug\net7.0\AppDBCOntext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\WebApi\StaqrtConfiguration\AppDBCOntext\obj\Debug\net7.0\AppDBCOntext.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\WebApi\StaqrtConfiguration\AppDBCOntext\obj\Debug\net7.0\AppDBCOntext.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\WebApi\StaqrtConfiguration\AppDBCOntext\obj\Debug\net7.0\AppDBCOntext.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\WebApi\StaqrtConfiguration\AppDBCOntext\obj\Debug\net7.0\AppDBCOntext.csproj.CopyComplete
+C:\Users\Ahmed\Desktop\WebApi\StaqrtConfiguration\AppDBCOntext\obj\Debug\net7.0\AppDBCOntext.dll
+C:\Users\Ahmed\Desktop\WebApi\StaqrtConfiguration\AppDBCOntext\obj\Debug\net7.0\refint\AppDBCOntext.dll
+C:\Users\Ahmed\Desktop\WebApi\StaqrtConfiguration\AppDBCOntext\obj\Debug\net7.0\AppDBCOntext.pdb
+C:\Users\Ahmed\Desktop\WebApi\StaqrtConfiguration\AppDBCOntext\obj\Debug\net7.0\ref\AppDBCOntext.dll

@@ -1,0 +1,20 @@
+* {
+	transition: 0.3s !important;
+
+	font-size: 20px;
+	font-weight: bold;
+	cursor: pointer;
+}
+#category li,
+#product li {
+	padding: 10px;
+	border-bottom: 1px solid gray;
+	font-size: 20px;
+	font-weight: bold;
+	cursor: pointer;
+}
+#category li:hover,
+#product li:hover {
+	color: blue;
+	padding-left: 30px;
+}

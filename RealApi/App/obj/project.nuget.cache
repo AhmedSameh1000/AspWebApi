@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SJ3dxEAuQVYKzbJLeM1W1FP3zlpcztf9cWSEU3kLWlio4cK0wHgDFYxETgOlgZGEGm1Imzp0lABOnGZQAJWQUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ahmed\\Desktop\\WebApi\\RealApi\\App\\App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahmed\\.nuget\\packages\\mediatr\\12.0.0\\mediatr.12.0.0.nupkg.sha512",
+    "C:\\Users\\Ahmed\\.nuget\\packages\\mediatr.contracts\\2.0.0\\mediatr.contracts.2.0.0.nupkg.sha512",
+    "C:\\Users\\Ahmed\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ahmed\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

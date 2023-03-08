@@ -1,0 +1,15 @@
+C:\Users\Ahmed\Desktop\WebApi\Lasta-tasl\DTOs\obj\Debug\net7.0\DTOs.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\WebApi\Lasta-tasl\DTOs\obj\Debug\net7.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\WebApi\Lasta-tasl\DTOs\obj\Debug\net7.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\WebApi\Lasta-tasl\DTOs\obj\Debug\net7.0\DTOs.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\WebApi\Lasta-tasl\DTOs\obj\Debug\net7.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\WebApi\Lasta-tasl\DTOs\bin\Debug\net7.0\DTOs.deps.json
+C:\Users\Ahmed\Desktop\WebApi\Lasta-tasl\DTOs\bin\Debug\net7.0\DTOs.dll
+C:\Users\Ahmed\Desktop\WebApi\Lasta-tasl\DTOs\bin\Debug\net7.0\DTOs.pdb
+C:\Users\Ahmed\Desktop\WebApi\Lasta-tasl\DTOs\bin\Debug\net7.0\Domain.dll
+C:\Users\Ahmed\Desktop\WebApi\Lasta-tasl\DTOs\bin\Debug\net7.0\Domain.pdb
+C:\Users\Ahmed\Desktop\WebApi\Lasta-tasl\DTOs\obj\Debug\net7.0\DTOs.csproj.CopyComplete
+C:\Users\Ahmed\Desktop\WebApi\Lasta-tasl\DTOs\obj\Debug\net7.0\DTOs.dll
+C:\Users\Ahmed\Desktop\WebApi\Lasta-tasl\DTOs\obj\Debug\net7.0\refint\DTOs.dll
+C:\Users\Ahmed\Desktop\WebApi\Lasta-tasl\DTOs\obj\Debug\net7.0\DTOs.pdb
+C:\Users\Ahmed\Desktop\WebApi\Lasta-tasl\DTOs\obj\Debug\net7.0\ref\DTOs.dll

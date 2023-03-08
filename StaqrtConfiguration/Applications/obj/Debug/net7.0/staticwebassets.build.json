@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "alGqTxkdVsUAIW1PWOb0B3VSpCIvgkDVB6jEjPZkBpE=",
+  "Source": "Applications",
+  "BasePath": "_content/Applications",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
